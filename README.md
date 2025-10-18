@@ -1,2 +1,2 @@
-# SistemaBiblioteca
-Teste de um mini e basico sistema de biblioteca que fiz para uma atividade da faculdade
+# Atividades LP 2
+Repositorio para armazenar atividades da disciplina de linguagem de programaçao 2.
